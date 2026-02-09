@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">癫痫记录</string>
+    <string name="big_chain">大串</string>
+    <string name="small_chain">小串</string>
+    <string name="tonic">强直</string>
+    <string name="clonic">阵挛</string>
+    <string name="time">时间</string>
+    <string name="count">个数</string>
+    <string name="save">保存</string>
+    <string name="history">历史记录</string>
+    <string name="export">导出Excel</string>
+    <string name="today_records">今日记录</string>
+    <string name="no_records">暂无记录</string>
+    <string name="export_success">导出成功</string>
+    <string name="export_failed">导出失败</string>
+    <string name="format_time_count">格式：时间,个数</string>
+</resources>
